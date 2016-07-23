@@ -1,0 +1,20 @@
+{
+  "name": "game-dev-day-phaser",
+  "authors": [
+    "peterjwest <peterjwest3@gmail.com>"
+  ],
+  "description": "Boilerplate and examples for Phaser",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.6.1"
+  }
+}

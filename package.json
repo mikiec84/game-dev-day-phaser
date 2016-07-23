@@ -1,0 +1,18 @@
+{
+  "name": "game-dev-day-phaser",
+  "author": "Peter West <peterjwest3@gmail.com> (https://github.com/peterjwest/)",
+  "description": "Boilerplate and examples for Phaser",
+  "private": true,
+  "dependencies": {
+    "static-server": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsoxford/game-dev-day-phaser.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsoxford/game-dev-day-phaser/issues"
+  },
+  "homepage": "https://github.com/jsoxford/game-dev-day-phaser"
+}
